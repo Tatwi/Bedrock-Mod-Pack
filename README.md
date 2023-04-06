@@ -44,7 +44,7 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 - 1 Empty Bucket + 4 Bottles of Milk = 1 Bucket of Milk
 
 **Black Dye**  
-<img src="black_dye_from_coal_slimeball.png" width="490" height="226"/>  
+<img src="img/black_dye_from_coal_slimeball.png" width="490" height="226"/>  
 - 1 Slimeball + 1 Coal = 1 Black Dye  
 
 **Blaze Powder**  
