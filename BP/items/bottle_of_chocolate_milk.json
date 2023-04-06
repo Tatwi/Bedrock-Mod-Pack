@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tatwi_mp:bottle_of_chocolate_milk",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:use_duration": 1,
+			"minecraft:food": {
+				"nutrition": 1,
+				"saturation_modifier": "good",
+				"can_always_eat": true,
+				"on_consume": {
+					"event": "tatwi_mp:ev_chocolate_milk"
+				}
+			},
+			"minecraft:icon": {
+				"texture": "tatwi_mp_bottle_of_chocolate_milk"
+			},
+			"minecraft:use_animation": "drink",
+			"minecraft:render_offsets": "apple",
+			"minecraft:max_stack_size": 16
+		},
+		"events": {
+			"tatwi_mp:ev_chocolate_milk": {
+				"run_command": {
+					"command": [
+						"/effect @s jump_boost 16 1 true",
+						"/effect @s speed 16 1 true"
+					]
+				}
+			}
+		}
+	}
+}

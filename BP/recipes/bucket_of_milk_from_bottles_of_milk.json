@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "tatwi_mp:bucket_of_milk_from_bottles_of_milk"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:bucket",
+				"data": 0
+			},
+			{
+				"item": "tatwi_mp:bottle_of_milk",
+				"count": 4
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bucket",
+				"data": 1
+			}
+		]
+	}
+}

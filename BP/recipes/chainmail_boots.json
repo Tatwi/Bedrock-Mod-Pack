@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "tatwi_mp:chainmail_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "Y Y",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "tag": "minecraft:wool"
+      },
+      "Y": {
+        "item": "minecraft:copper_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:chainmail_boots"
+    }
+  }
+}

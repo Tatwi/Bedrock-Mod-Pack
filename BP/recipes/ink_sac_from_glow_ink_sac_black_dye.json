@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "tatwi_mp:ink_sac_from_glow_ink_sac_black_dye"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "group": "black_dye",
+    "ingredients": [
+      {
+        "item": "minecraft:glow_ink_sac"
+      },
+      {
+        "item": "minecraft:dye",
+        "data": 16
+      }
+    ],
+    "result": {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  }
+}

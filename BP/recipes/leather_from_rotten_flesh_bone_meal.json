@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "tatwi_mp:leather_from_rotten_flesh_bone_meal"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:dye",
+        "data": 15
+      }
+    ],
+    "result": {
+      "item": "minecraft:leather"
+    }
+  }
+}

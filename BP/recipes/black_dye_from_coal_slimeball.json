@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "tatwi_mp:black_dye_from_coal_slimeball"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "group": "black_dye",
+    "ingredients": [
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      }
+    ],
+    "result": {
+      "item": "minecraft:dye",
+      "data": 16
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "Tatwi's Mod Pack",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"tatwi_mp_bottle_of_milk": {
+			"textures": "textures/items/bottle_of_milk"
+		},
+		"tatwi_mp_bottle_of_chocolate_milk": {
+			"textures": "textures/items/bottle_of_chocolate_milk"
+		},
+		"tatwi_mp_empty_milk_bottle": {
+			"textures": "textures/items/empty_milk_bottle"
+		}
+	}
+}

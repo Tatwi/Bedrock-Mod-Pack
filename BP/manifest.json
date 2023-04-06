@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"R. Bassett Jr. (Tatwi)"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "3740013d-3d11-46d0-8e3e-21a5e2ad216d",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e17e35c2-808d-4e7c-b509-5ac5160e2d9c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "65e54f53-55c5-4306-b1a7-c3409be3921c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

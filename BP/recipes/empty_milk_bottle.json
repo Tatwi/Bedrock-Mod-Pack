@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tatwi_mp:empty_milk_bottle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:glass"
+			}
+		},
+		"pattern": [
+			"# #",
+			"###"
+		],
+		"result": {
+			"item": "tatwi_mp:empty_milk_bottle"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tatwi_mp:empty_milk_bottle",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "tatwi_mp_empty_milk_bottle"
+			}
+		}
+	}
+}
