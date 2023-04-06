@@ -23,6 +23,12 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 - Stacks up to 16.  
 - Does not return bottle when used.  
 
+**Gross**  
+- It's so disgusting that you'll hardly even notice it comes in a bottle!
+- Grants Haste I, Absorption I, and Slowness II for 32 seconds when consumed.  
+- Stacks up to 16.  
+- Does not return bottle when used.  
+
 
 ## New Recipes
 
@@ -91,6 +97,10 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 **Bottle of Apple Juice**  
 <img src="img/bottle_of_apple_juice.png" width="490" height="226"/>  
 - 4 Apples + 1 Empty Milk Bottle = 1 Bottle of Apple Juice
+
+**Gross**  
+<img src="img/bottle_of_gross.png" width="490" height="226"/>  
+- 4 Cactus + 2 Kelp + 1 Sugar + 1 Sea Pickle + 1 Empty Milk Bottle = 1 Gross
 
 ## Modified Recipes
 

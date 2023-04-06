@@ -1,0 +1,37 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tatwi_mp:bottle_of_gross",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:use_duration": 1,
+			"minecraft:food": {
+				"nutrition": 1,
+				"saturation_modifier": "poor",
+				"can_always_eat": true,
+				"on_consume": {
+					"event": "tatwi_mp:ev_gross"
+				}
+			},
+			"minecraft:icon": {
+				"texture": "tatwi_mp_bottle_of_gross"
+			},
+			"minecraft:use_animation": "drink",
+			"minecraft:render_offsets": "apple",
+			"minecraft:max_stack_size": 16
+		},
+		"events": {
+			"tatwi_mp:ev_gross": {
+				"run_command": {
+					"command": [
+						"/effect @s haste 32 1 false",
+						"/effect @s absorption 32 1 false",
+						"/effect @s slowness 32 2 false"
+					]
+				}
+			}
+		}
+	}
+}

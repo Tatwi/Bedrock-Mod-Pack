@@ -1,0 +1,38 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "tatwi_mp:bottle_of_gross"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cactus",
+				"count": 4
+			},
+			{
+				"item": "minecraft:kelp",
+				"count": 2
+			},
+			{
+				"item": "minecraft:sea_pickle",
+				"count": 1
+			},
+			{
+				"item": "minecraft:sugar",
+				"count": 1
+			},
+			{
+				"item": "tatwi_mp:empty_milk_bottle",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "tatwi_mp:bottle_of_gross"
+			}
+		]
+	}
+}

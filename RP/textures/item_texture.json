@@ -13,6 +13,9 @@
 		},
 		"tatwi_mp_bottle_of_apple_juice": {
 			"textures": "textures/items/bottle_of_apple_juice"
+		},
+		"tatwi_mp_bottle_of_gross": {
+			"textures": "textures/items/bottle_of_gross"
 		}
 	}
 }
