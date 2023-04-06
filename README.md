@@ -18,6 +18,11 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 - Stacks up to 16.  
 - Does not return bottle when used.  
 
+**Bottle of Apple Juice**  
+- Grants Regeneration II and Speed I for 6 seconds when consumed.  
+- Stacks up to 16.  
+- Does not return bottle when used.  
+
 
 ## New Recipes
 
@@ -83,6 +88,9 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 <img src="img/chainmail_leggings.png" width="490" height="226"/>  
 - 3 Copper Ingots + 4 Wool = 1 Chainmail Leggings  
 
+**Bottle of Apple Juice**  
+<img src="img/bottle_of_apple_juice.png" width="490" height="226"/>  
+- 4 Apples + 1 Empty Milk Bottle = 1 Bottle of Apple Juice
 
 ## Modified Recipes
 

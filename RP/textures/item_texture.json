@@ -10,6 +10,9 @@
 		},
 		"tatwi_mp_empty_milk_bottle": {
 			"textures": "textures/items/empty_milk_bottle"
+		},
+		"tatwi_mp_bottle_of_apple_juice": {
+			"textures": "textures/items/bottle_of_apple_juice"
 		}
 	}
 }
