@@ -117,6 +117,9 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 
 ## Modified Items
 
+**Soup, Stew, & Bowls**  
+- Beetroot Soup, Mushroom Stew, and Rabbit Stew stack to 16 and no longer return the bowl when used.
+
 
 # Credits
 
