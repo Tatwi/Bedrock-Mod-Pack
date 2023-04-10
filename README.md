@@ -29,6 +29,11 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 - Stacks up to 16.  
 - Does not return bottle when used.  
 
+**Bottle of Fruit Punch**  
+- Grants Strength I and Absorption I for 16 seconds when consumed.  
+- Stacks up to 16.  
+- Does not return bottle when used.  
+
 
 ## New Recipes
 
@@ -101,6 +106,11 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 **Gross**  
 <img src="img/bottle_of_gross.png" width="490" height="226"/>  
 - 4 Cactus + 2 Kelp + 1 Sugar + 1 Sea Pickle + 1 Empty Milk Bottle = 1 Gross
+
+**Bottle of Fruit Punch**  
+<img src="img/bottle_of_fruit_punch.png" width="490" height="226"/>  
+- 2 Beetroot + 1 Sweet Berry + 1 Glow Berry + 1 Empty Milk Bottle = 1 Bottle of Fruit Punch
+
 
 ## Modified Recipes
 

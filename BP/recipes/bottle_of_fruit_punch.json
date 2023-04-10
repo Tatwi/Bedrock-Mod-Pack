@@ -1,0 +1,34 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "tatwi_mp:bottle_of_fruit_punch"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:beetroot",
+				"count": 2
+			},
+			{
+				"item": "minecraft:sweet_berries",
+				"count": 1
+			},
+			{
+				"item": "minecraft:glow_berries",
+				"count": 1
+			},
+			{
+				"item": "tatwi_mp:empty_milk_bottle",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "tatwi_mp:bottle_of_fruit_punch"
+			}
+		]
+	}
+}

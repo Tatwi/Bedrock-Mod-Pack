@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tatwi_mp:bottle_of_fruit_punch",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:use_duration": 1,
+			"minecraft:food": {
+				"nutrition": 1,
+				"saturation_modifier": "good",
+				"can_always_eat": true,
+				"on_consume": {
+					"event": "tatwi_mp:ev_fruit_punch"
+				}
+			},
+			"minecraft:icon": {
+				"texture": "tatwi_mp_bottle_of_fruit_punch"
+			},
+			"minecraft:use_animation": "drink",
+			"minecraft:render_offsets": "apple",
+			"minecraft:max_stack_size": 16
+		},
+		"events": {
+			"tatwi_mp:ev_fruit_punch": {
+				"run_command": {
+					"command": [
+						"/effect @s strength 16 1 false",
+						"/effect @s absorption 16 1 false"
+					]
+				}
+			}
+		}
+	}
+}
