@@ -3,6 +3,12 @@
 A collection of minor adjustments and additions to enhance the aspects of the game that I enjoy.  
 
 
+## Requirements
+
+- Minecraft Bedrock Edition.  
+- To accommodate new items, Holiday Creator Features must be enabled under Experiments.  
+
+
 ## New Items
 
 **Empty Milk Bottle**  
