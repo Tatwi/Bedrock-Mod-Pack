@@ -1,28 +1,32 @@
 {
 	"format_version": "1.12",
-	"minecraft:recipe_shapeless": {
+	"minecraft:recipe_shaped": {
 		"description": {
 			"identifier": "tatwi_mp:bottle_of_chocolate_milk"
 		},
 		"tags": [
 			"crafting_table"
 		],
-		"ingredients": [
-			{
+		"pattern": [
+			"BSB",
+			"BCB",
+			" M "
+		],
+		"key": {
+			"B": {
+				"item": "tatwi_mp:empty_milk_bottle"
+			},
+			"M": {
 				"item": "minecraft:bucket",
 				"data": 1
 			},
-			{
-				"item": "tatwi_mp:empty_milk_bottle",
-				"count": 4
-			},
-			{
-				"item": "minecraft:cocoa_beans"
-			},
-			{
+			"S": {
 				"item": "minecraft:sugar"
+			},
+			"C": {
+				"item": "minecraft:cocoa_beans"
 			}
-		],
+		},
 		"result": [
 			{
 				"item": "tatwi_mp:bottle_of_chocolate_milk",
@@ -30,6 +34,7 @@
 			},
 			{
 				"item": "minecraft:bucket",
+				"count": 1,
 				"data": 0
 			}
 		]
