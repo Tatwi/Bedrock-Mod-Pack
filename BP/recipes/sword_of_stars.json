@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tatwi_mp:sword_of_stars"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:calcite"
+			},
+			"B": {
+				"item": "minecraft:smooth_basalt"
+			},
+			"C": {
+				"item": "minecraft:golden_sword"
+			}
+		},
+		"pattern": [
+			" A ",
+			" B ",
+			" C "
+		],
+		"result": {
+			"item": "tatwi_mp:sword_of_stars"
+		}
+	}
+}

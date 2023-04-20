@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tatwi_mp:magma_blade"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:magma"
+			},
+			"B": {
+				"item": "minecraft:black_glazed_terracotta"
+			},
+			"C": {
+				"item": "minecraft:golden_sword"
+			}
+		},
+		"pattern": [
+			" A ",
+			" B ",
+			" C "
+		],
+		"result": {
+			"item": "tatwi_mp:magma_blade"
+		}
+	}
+}
