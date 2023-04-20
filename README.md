@@ -125,35 +125,35 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 <img src="img/bottle_of_fruit_punch.png" width="490" height="226"/>  
 - 2 Beetroot + 1 Sweet Berry + 1 Glow Berry + 1 Empty Milk Bottle = 1 Bottle of Fruit Punch
 
-**Bedazzled Blade**
+**Bedazzled Blade**  
 <img src="img/bedazzled_blade.png" width="490" height="226"/>  
 - 1 Golden Sword + Block of Redstone + Block of Lapis Lazuli = 1 Bedazzled Blade  
 
-**Crystal Blade**
+**Crystal Blade**  
 <img src="img/crystal_blade.png" width="490" height="226"/>  
 - 1 Golden Sword + Block of Amethyst + Polished Diorite = 1 Crystal Blade  
 
-**Magma Blade**
+**Magma Blade**  
 <img src="img/magma_blade.png" width="490" height="226"/>  
 - 1 Golden Sword + Magma Block + Black Glazed Terracotta = 1 Magma Blade  
 
-**Prismarine Blade**
+**Prismarine Blade**  
 <img src="img/prismarine_blade.png" width="490" height="226"/>  
 - 1 Golden Sword + Prismarine + Dark Prismarine = 1 Prismarine Blade  
 
-**Sword of Dreams**
+**Sword of Dreams**  
 <img src="img/sword_of_dreams.png" width="490" height="226"/>  
 - 1 Golden Sword + Block of Emerald + Green Glazed Terracotta = 1 Sword of Dreams  
 
-**Sword of Seasons**
+**Sword of Seasons**  
 <img src="img/sword_of_seasons.png" width="490" height="226"/>  
 - 1 Golden Sword + Honeycomb Block + Mossy Cobblestone = 1 Sword of Seasons  
 
-**Sword of Stars**
+**Sword of Stars**  
 <img src="img/sword_of_stars.png" width="490" height="226"/>  
 - 1 Golden Sword + Calcite + Smooth Basalt = 1 Sword of Stars  
 
-**Sword of Whimsy**
+**Sword of Whimsy**  
 <img src="img/sword_of_whimsy.png" width="490" height="226"/>  
 - 1 Golden Sword + Red Mushroom Block + Tuff = 1 Sword of Whimsy  
 
