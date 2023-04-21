@@ -44,10 +44,13 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 <img src="img/swords.png" width="576" height="72"/>  
 - 8 new swords with unique appearances and identical functionality.  
 - Bedazzled Blade, Crystal Blade, Magma Blade, Prismarine Blade, Sword of Dreams, Sword of Seasons, Sword of Stars, Sword of Whimsy.  
-- Damages like a Stone Sword (5).  
-- Enchants like an Iron sword.  
+- Damages like a Stone Sword (5).    
 - Has bonus durability (333).  
 
+**Super Fun Swords**  
+- Visually identical to Fun Swords.  
+- Functionally identical to Netherite Swords.  
+- Just fun alternate skins!  
 
 ## New Recipes
 
@@ -156,6 +159,10 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 **Sword of Whimsy**  
 <img src="img/sword_of_whimsy.png" width="490" height="226"/>  
 - 1 Golden Sword + Red Mushroom Block + Tuff = 1 Sword of Whimsy  
+
+**Super Fun Swords**  
+<img src="img/super_swords.png" width="490" height="226"/>  
+- 1 Glowstone Dust + 1 "Fun Sword" + Netherite Sword = "Super Fun Sword"
 
 
 ## Modified Recipes

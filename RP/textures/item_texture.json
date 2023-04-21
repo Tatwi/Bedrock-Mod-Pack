@@ -43,6 +43,30 @@
 		},
 		"tatwi_mp_sword_of_whimsy": {
 			"textures": "textures/items/sword_of_whimsy"
+		},
+		"tatwi_mp_super_bedazzled_blade": {
+			"textures": "textures/items/bedazzled_blade"
+		},
+		"tatwi_mp_super_crystal_blade": {
+			"textures": "textures/items/crystal_blade"
+		},
+		"tatwi_mp_super_magma_blade": {
+			"textures": "textures/items/magma_blade"
+		},
+		"tatwi_mp_super_prismarine_blade": {
+			"textures": "textures/items/prismarine_blade"
+		},
+		"tatwi_mp_super_sword_of_dreams": {
+			"textures": "textures/items/sword_of_dreams"
+		},
+		"tatwi_mp_super_sword_of_seasons": {
+			"textures": "textures/items/sword_of_seasons"
+		},
+		"tatwi_mp_super_sword_of_stars": {
+			"textures": "textures/items/sword_of_stars"
+		},
+		"tatwi_mp_super_sword_of_whimsy": {
+			"textures": "textures/items/sword_of_whimsy"
 		}
 	}
 }

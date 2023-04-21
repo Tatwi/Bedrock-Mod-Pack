@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tatwi_mp:super_bedazzled_blade"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:glowstone_dust"
+			},
+			"B": {
+				"item": "tatwi_mp:bedazzled_blade"
+			},
+			"C": {
+				"item": "minecraft:netherite_sword"
+			}
+		},
+		"pattern": [
+			" A ",
+			" B ",
+			" C "
+		],
+		"result": {
+			"item": "tatwi_mp:super_bedazzled_blade"
+		}
+	}
+}
