@@ -53,3 +53,5 @@ tile.tatwi_mp:dog_bowl_water_white.name=White Dog Water Bowl
 tile.tatwi_mp:dog_bowl_empty_yellow.name=Yellow Dog Bowl
 tile.tatwi_mp:dog_bowl_food_yellow.name=Yellow Dog Food Bowl
 tile.tatwi_mp:dog_bowl_water_yellow.name=Yellow Dog Water Bowl
+entity.tatwi_mp:german_shepherd.name=German Shepherd
+item.spawn_egg.entity.tatwi_mp:german_shepherd.name=Spawn German Shepherd
