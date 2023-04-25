@@ -23,3 +23,6 @@ item.tatwi_mp:super_sword_of_dreams=Super Sword of Dreams
 item.tatwi_mp:super_sword_of_seasons=Super Sword of Seasons
 item.tatwi_mp:super_sword_of_stars=Super Sword of Stars
 item.tatwi_mp:super_sword_of_whimsy=Super Sword of Whimsy
+tile.tatwi_mp:dog_bowl_empty_green.name=Green Dog Bowl
+tile.tatwi_mp:dog_bowl_food_green.name=Green Dog Food Bowl
+tile.tatwi_mp:dog_bowl_water_green.name=Green Dog Water Bowl

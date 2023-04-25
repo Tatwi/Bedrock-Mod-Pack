@@ -3,5 +3,14 @@
 		1,
 		1,
 		0
-	]
+	],
+	"tatwi_mp:dog_bowl_empty_green": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_green": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_green": {
+		"sound": "slime"
+	}
 }
