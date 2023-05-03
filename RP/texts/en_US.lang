@@ -57,3 +57,5 @@ entity.tatwi_mp:german_shepherd.name=German Shepherd
 item.spawn_egg.entity.tatwi_mp:german_shepherd.name=Spawn German Shepherd
 entity.tatwi_mp:long_dog.name=Long Dog
 item.spawn_egg.entity.tatwi_mp:long_dog.name=Spawn Long Dog
+entity.tatwi_mp:pug.name=Pug
+item.spawn_egg.entity.tatwi_mp:pug.name=Spawn Pug
