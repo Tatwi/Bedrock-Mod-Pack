@@ -62,8 +62,8 @@
 			],
 			"render_controllers": ["controller.render.wolf"],
 			"spawn_egg": {
-				"base_color": "#dd7a4a",
-				"overlay_color": "#9e35c9"
+				"base_color": "#5b2a05",
+				"overlay_color": "#332013"
 			}
 		}
 	}
