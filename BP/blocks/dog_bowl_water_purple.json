@@ -1,0 +1,32 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "tatwi_mp:dog_bowl_water_purple",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:geometry": "geometry.dog_bowl",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "tatwi_mp_dog_bowl_water_purple",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:collision_box": false,
+			"minecraft:on_interact": {
+				"event": "tatwi_mp:water_to_empty",
+				"target": "self"
+			}
+		},
+		"events": {
+			"tatwi_mp:water_to_empty": {
+				"set_block": {
+					"block_type": "tatwi_mp:dog_bowl_empty_purple"
+				}
+			}
+		}
+	}
+}

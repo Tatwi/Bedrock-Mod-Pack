@@ -1,0 +1,89 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.australian_shepherd",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "head",
+					"pivot": [-1, 16.5, -6.75],
+					"cubes": [
+						{"origin": [-4, 13.5, -7.75], "size": [6, 5, 4.75], "uv": [30, 0]},
+						{"origin": [-2.25, 13.71563, -10.45], "size": [2.5, 2.2, 2.7], "uv": [6, 28]}
+					],
+					"locators": {
+						"lead": [-1, 13.1, -5.75]
+					}
+				},
+				{
+					"name": "ears",
+					"parent": "head",
+					"pivot": [-1.75, 20.08333, -6.25],
+					"cubes": [
+						{"origin": [-4, 15.5, -8], "size": [2, 3, 1], "pivot": [-3, 18.45, -6.25], "rotation": [-20, 55, 0], "uv": [0, 30]},
+						{"origin": [0.55, 16, -6.5], "size": [2, 3, 1], "pivot": [3, 18.45, -6.25], "rotation": [-20, -55, 0], "uv": [29, 14]}
+					]
+				},
+				{
+					"name": "body",
+					"pivot": [0, 10, 2],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-4, 3, -2], "size": [6, 9.5, 7], "uv": [15, 18]}
+					]
+				},
+				{
+					"name": "upperBody",
+					"pivot": [-1, 10, -3],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-4.5, 7, -7.5], "size": [7, 7, 8.25], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "leg0",
+					"pivot": [-2.5, 8, 7],
+					"cubes": [
+						{"origin": [-3.5, 0, 6], "size": [2, 6.15, 2], "uv": [0, 15]}
+					]
+				},
+				{
+					"name": "leg1",
+					"pivot": [0.5, 8, 7],
+					"cubes": [
+						{"origin": [-0.5, 0, 6], "size": [2, 6.15, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "leg2",
+					"pivot": [-2.5, 8, -4],
+					"cubes": [
+						{"origin": [-3.5, 0, -5], "size": [2, 5.55, 2], "uv": [0, 23]}
+					]
+				},
+				{
+					"name": "leg3",
+					"pivot": [0.5, 8, -4],
+					"cubes": [
+						{"origin": [-0.5, 0, -5], "size": [2, 5.55, 2], "uv": [22, 0]}
+					]
+				},
+				{
+					"name": "tail",
+					"pivot": [-1, 12.4, 8],
+					"cubes": [
+						{"origin": [-1.5, 13, 8], "size": [1, 2, 1], "uv": [22, 15]},
+						{"origin": [-1, 13, 1], "size": [0, 6, 10], "uv": [0, 24]}
+					]
+				}
+			]
+		}
+	]
+}

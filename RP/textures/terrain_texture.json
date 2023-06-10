@@ -3,5 +3,96 @@
 	"padding": 8,
 	"resource_pack_name": "Tatwi's Mod Pack",
 	"texture_name": "atlas.terrain",
-	"texture_data": {}
+	"texture_data": {
+		"tatwi_mp_dog_bowl_empty_green": {
+			"textures": "textures/blocks/dog_bowl_empty_green"
+		},
+		"tatwi_mp_dog_bowl_food_green": {
+			"textures": "textures/blocks/dog_bowl_food_green"
+		},
+		"tatwi_mp_dog_bowl_water_green": {
+			"textures": "textures/blocks/dog_bowl_water_green"
+		},
+		"tatwi_mp_dog_bowl_empty_black": {
+			"textures": "textures/blocks/dog_bowl_empty_black"
+		},
+		"tatwi_mp_dog_bowl_food_black": {
+			"textures": "textures/blocks/dog_bowl_food_black"
+		},
+		"tatwi_mp_dog_bowl_water_black": {
+			"textures": "textures/blocks/dog_bowl_water_black"
+		},
+		"tatwi_mp_dog_bowl_empty_blue": {
+			"textures": "textures/blocks/dog_bowl_empty_blue"
+		},
+		"tatwi_mp_dog_bowl_food_blue": {
+			"textures": "textures/blocks/dog_bowl_food_blue"
+		},
+		"tatwi_mp_dog_bowl_water_blue": {
+			"textures": "textures/blocks/dog_bowl_water_blue"
+		},
+		"tatwi_mp_dog_bowl_empty_lime": {
+			"textures": "textures/blocks/dog_bowl_empty_lime"
+		},
+		"tatwi_mp_dog_bowl_food_lime": {
+			"textures": "textures/blocks/dog_bowl_food_lime"
+		},
+		"tatwi_mp_dog_bowl_water_lime": {
+			"textures": "textures/blocks/dog_bowl_water_lime"
+		},
+		"tatwi_mp_dog_bowl_empty_orange": {
+			"textures": "textures/blocks/dog_bowl_empty_orange"
+		},
+		"tatwi_mp_dog_bowl_food_orange": {
+			"textures": "textures/blocks/dog_bowl_food_orange"
+		},
+		"tatwi_mp_dog_bowl_water_orange": {
+			"textures": "textures/blocks/dog_bowl_water_orange"
+		},
+		"tatwi_mp_dog_bowl_empty_pink": {
+			"textures": "textures/blocks/dog_bowl_empty_pink"
+		},
+		"tatwi_mp_dog_bowl_food_pink": {
+			"textures": "textures/blocks/dog_bowl_food_pink"
+		},
+		"tatwi_mp_dog_bowl_water_pink": {
+			"textures": "textures/blocks/dog_bowl_water_pink"
+		},
+		"tatwi_mp_dog_bowl_empty_purple": {
+			"textures": "textures/blocks/dog_bowl_empty_purple"
+		},
+		"tatwi_mp_dog_bowl_food_purple": {
+			"textures": "textures/blocks/dog_bowl_food_purple"
+		},
+		"tatwi_mp_dog_bowl_water_purple": {
+			"textures": "textures/blocks/dog_bowl_water_purple"
+		},
+		"tatwi_mp_dog_bowl_empty_red": {
+			"textures": "textures/blocks/dog_bowl_empty_red"
+		},
+		"tatwi_mp_dog_bowl_food_red": {
+			"textures": "textures/blocks/dog_bowl_food_red"
+		},
+		"tatwi_mp_dog_bowl_water_red": {
+			"textures": "textures/blocks/dog_bowl_water_red"
+		},
+		"tatwi_mp_dog_bowl_empty_white": {
+			"textures": "textures/blocks/dog_bowl_empty_white"
+		},
+		"tatwi_mp_dog_bowl_food_white": {
+			"textures": "textures/blocks/dog_bowl_food_white"
+		},
+		"tatwi_mp_dog_bowl_water_white": {
+			"textures": "textures/blocks/dog_bowl_water_white"
+		},
+		"tatwi_mp_dog_bowl_empty_yellow": {
+			"textures": "textures/blocks/dog_bowl_empty_yellow"
+		},
+		"tatwi_mp_dog_bowl_food_yellow": {
+			"textures": "textures/blocks/dog_bowl_food_yellow"
+		},
+		"tatwi_mp_dog_bowl_water_yellow": {
+			"textures": "textures/blocks/dog_bowl_water_yellow"
+		}
+	}
 }

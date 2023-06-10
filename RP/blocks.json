@@ -3,5 +3,95 @@
 		1,
 		1,
 		0
-	]
+	],
+	"tatwi_mp:dog_bowl_empty_green": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_green": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_green": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_black": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_black": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_black": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_blue": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_blue": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_blue": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_lime": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_lime": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_lime": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_orange": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_orange": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_orange": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_pink": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_pink": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_pink": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_purple": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_purple": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_purple": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_red": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_red": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_red": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_white": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_white": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_white": {
+		"sound": "slime"
+	},
+	"tatwi_mp:dog_bowl_empty_yellow": {
+		"sound": "stone"
+	},
+	"tatwi_mp:dog_bowl_food_yellow": {
+		"sound": "moss_block"
+	},
+	"tatwi_mp:dog_bowl_water_yellow": {
+		"sound": "slime"
+	}
 }

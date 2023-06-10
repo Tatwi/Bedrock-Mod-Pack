@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tatwi_mp:dog_bowl_lime"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:concrete",
+				"data": 5
+			}
+		},
+		"pattern": [
+			"   ",
+			"# #",
+			"###"
+		],
+		"result": {
+			"item": "tatwi_mp:dog_bowl_empty_lime"
+		}
+	}
+}
