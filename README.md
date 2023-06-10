@@ -174,6 +174,12 @@ A collection of minor adjustments and additions to enhance the aspects of the ga
 - Beetroot Soup, Mushroom Stew, and Rabbit Stew stack to 16 and no longer return the bowl when used.
 
 
+## Dogs For Abby
+
+<img src="img/dogs.png" width="836" height="515"/>  
+- Four new visual variations of the wolf: German Shepherd, Pug, Long Dog, and Australian Shepherd.  
+- Decorative dog bowls can be crafted in several colours. Click the bowl change from empty, food, and water.  
+
 # Credits
 
 I extend my thanks to the volunteers who created and continue to update [Bedrock Wiki](https://wiki.bedrock.dev/),   [Blockbench](https://www.blockbench.net/),  [bridge.](https://bridge-core.github.io/), [Geany](https://www.geany.org/), [GIMP](https://www.gimp.org/), and [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki). Without your efforts, mods would be far too much of a convoluted nightmare to bother with!
